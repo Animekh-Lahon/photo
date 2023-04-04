@@ -1,0 +1,23 @@
+p{
+    color: blue;
+}
+#w{
+    color: aquamarine;
+}
+body{
+    background-color: crimson;
+
+}
+img{
+    width: 450px;
+    height: 450pk;
+}
+button{
+    width: 100px;
+    height: 75px;
+    border-radius: 8px;
+    background-color: aqua;
+    font-weight: 900;
+    color: aliceblue;
+    font-size: larger;
+}
